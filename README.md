@@ -57,7 +57,7 @@ rock-paper-scissors-game/
 ├── README.md
 ├── favicon.ico
 ├── index.html
-└── requirements.txt
+
 ```
 
 ---
