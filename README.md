@@ -6,7 +6,7 @@ An interactive **Rock Paper Scissors** web game built using **HTML, CSS, and Jav
 
 ## 📌 Live Demo
 
-live Website:
+Live Website:
 https://vishruth09.github.io/rock-paper-scissors-game/
 
 ---
